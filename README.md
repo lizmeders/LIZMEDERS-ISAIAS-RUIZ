@@ -38,6 +38,7 @@ Aquí compartiré proyectos como dashboards, análisis de datos del sector salud
 
 ## 📫 ¿Quieres contactarme?
 
-- ✉️ Email: lizmeders@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📂 Portafolio: en construcción
+- ✉️ Email: lizmeder@gmail.com
+- 📞 Teléfono: +573026474975
+- 💼 [LinkedIn](www.linkedin.com/in/isaias-ruiz-castrillon-b8a0bb140)
+- - 📂 Portafolio: en construcción
